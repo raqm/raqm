@@ -1,4 +1,4 @@
-# 👋 Hi, I'm RM
+# 👋 Hi, I'm Raq
 
 I'm a full-stack developer with deep experience in **Java, Spring Boot, and Azure**, now diving into **AI and Python**. I’m building real-world tools powered by open-source models and cloud infrastructure.
 
